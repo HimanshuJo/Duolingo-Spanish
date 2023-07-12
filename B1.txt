@@ -37,8 +37,6 @@ El nino la nina -> Der Junge, das Mädchen
 
 -------
 
-8/24/2022
-
 La mujer come una manzana -> Die Frau isst einen Apfel
 Ela es una mujer -> Sie ist eine Frau
 Usted es una mujer -> Sie sind eine Frau
@@ -59,8 +57,6 @@ La nina come -> Das Mädchen isst
 
 -------
 
-27-Aug-2022
-
 Yo bebo agua -> Ich trinke Wasser
 Yo bebo leche -> Ich trinke Milch
 El bebe agua -> Er trinkt Wasser
@@ -79,8 +75,6 @@ El nino bebe leche -> Der Junge trinkt Milch
 El hombre come pan -> Der Mann isst Brot
 
 -------
-
-28-Aug-2022
 
 Un nino -> Ein Junge
 Yo soy un nino -> Ich bin ein Junge
@@ -101,8 +95,6 @@ El hombre, la mujer -> Der Mann die Frau
 La mujer, el hombre -> Die Frau, der Mann
 
 -------
-
-29-Aug-2022
 
 Tu eres un nino -> Du bist ein Junge
 
@@ -126,8 +118,6 @@ Usted es una mujer -> Sie sind eine Frau
 Ella es una mujer -> Sie ist eine Frau
 
 -------
-
-02-Sep-2022
 
 Tu comes el pan -> Du isst das Brot
 El comme pan -> Er isst Brot
