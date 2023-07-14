@@ -34,23 +34,23 @@ Las camisas son grandes -> Die Hemden sind groß
 
 -------
 
-las ninas -> die Mädchen
+las niñas -> die Mädchen
 
 los -> die
-los ninos -> die Jungen/die Kinder
+los niños -> die Jungen/die Kinder
 
 Los Hombres -> die Männer
 
 Las mujeres -> die Frauen
 Las mujeres beben agua -> Die Frauen trinken Wasser
 
-Ellas son ninas -> Sie sind Mädchen
+Ellas son niñas -> Sie sind Mädchen
 Ellas son mujeres -> Sie sind Frauen
 
 Ellos beben -> Sie trinken
 Ellos beben agua -> Sie trinken Wasser
 
-Las ninas beben la leche -> Die Mädchen trinken die Milch
+Las niñas beben la leche -> Die Mädchen trinken die Milch
 
 Vosotros -> Ihr
 Vosotros comeis -> Ihr esst
@@ -94,10 +94,9 @@ ellas -> sie
 
 -------
 
+diario -> Zeitung
 el diario -> die Zeitung
 El lee -> Er liest
-
-diario -> Zeitung
 
 Yo leo -> Ich lese
 Yo leo un libro -> Ich lese ein Buch
@@ -106,23 +105,21 @@ Tu lees -> Du liest
 
 Ellos leen -> Sie lesen
 
+leeis -> lest 
 Leeis el libro -> Ihr lest das Buch
 
 Vosotras leeis una carta -> Ihr lest einen Brief
 
 Ellas escriben -> Sie schreiben
 
+nina -> Mädchen
 Las nina escriben -> Die Mädchen schreiben
 
 Nosotros leemos -> Wir lesen
 
 mio -> mir
 
-leeis -> lest 
-
 bebemos -> trinken
-
-nina -> Mädchen
 
 leen -> lesen
 
@@ -136,7 +133,7 @@ sal -> Salz
 
 Yo bebo vino -> Ich trinke Wein
 
-Las ninas escriben -> Die Mädchen schreiben
+Las niñas escriben -> Die Mädchen schreiben
 Las mujeres beben el agua -> Die Frauen trinken das Wasser
 
 Nosotras escribimos un libro -> Wir schreiben ein Buch
@@ -154,3 +151,33 @@ Yo elo el diario -> Ich lese die Zeitung
 Tu escribes una carta -> Du schreibst einen Brief
 
 Él lee -> Er liest
+
+-------
+
+una -> eine
+
+nina -> Mädchen
+La nina -> Das Mädchen
+Yo soy una nina -> Ich bin ein Mädchen
+
+soy -> bin
+
+Yo -> ich
+Yo soy una mujer -> Ich bin eine Frau
+
+hombre-> Mann
+Un hombre -> Ein Mann
+El hombre -> Der Mann
+El hombre la mujer -> Der Mann, die Frau
+Yo soy un hombre -> Ich bin ein Mann
+
+mujer -> Frau
+La mujer -> Die Frau
+La mujer el hombre -> Die Frau, der Mann
+Yo soy una mujer -> Ich bin eine Frau
+
+niño -> Junge
+Un niño -> Ein Junge
+Yo soy un niño/Yo soy un chico -> Ich bin ein Junge
+
+Yo soy una chica -> Ich bin ein Mädchen
