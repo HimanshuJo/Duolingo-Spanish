@@ -14,7 +14,7 @@ Nosotras bebemos la leche -> Wir trinken die Milch
 Ustedes -> Sie
 Ustedes son hombres -> Sie sind Männer
 
-tu -> du
+Tú -> du
 nosotros -> wir
 una -> eine
 es -> ist
@@ -59,7 +59,6 @@ Vosotros comeis pan -> Ihr esst Brot
 -------
 
 el vino -> der Wein
-
 Yo bebo vino -> ich trinke Wein
 
 el libro -> das Buch
@@ -69,13 +68,13 @@ la carta -> der Brief
 Yo escribo -> Ich schreibe
 Yo escribo una carta -> Ich schreibe einen Brief
 
-Tu escribes -> Du schreibst
-Tu escribes una carta -> Du schreibst einen Brief
+Tú escribes -> Du schreibst
+Tú escribes una carta -> Du schreibst einen Brief
 
 Vosotras comeis -> Ihr esst
 Vosotras comeis pan -> Ihr esst Brot
 
-El escribe un libro -> Er schreibt ein Buch
+Él escribe un libro -> Er schreibt ein Buch
 
 escribe -> schreibt
 
@@ -96,12 +95,12 @@ ellas -> sie
 
 diario -> Zeitung
 el diario -> die Zeitung
-El lee -> Er liest
+Él lee -> Er liest
 
 Yo leo -> Ich lese
 Yo leo un libro -> Ich lese ein Buch
 
-Tu lees -> Du liest
+Tú lees -> Du liest
 
 Ellos leen -> Sie lesen
 
@@ -148,7 +147,7 @@ Las persona lee el diario -> Die Person liest die Zeitung
 Yo leo un libro -> Ich lese ein Buch
 Yo elo el diario -> Ich lese die Zeitung
 
-Tu escribes una carta -> Du schreibst einen Brief
+Tú escribes una carta -> Du schreibst einen Brief
 
 Él lee -> Er liest
 
@@ -180,4 +179,33 @@ niño -> Junge
 Un niño -> Ein Junge
 Yo soy un niño/Yo soy un chico -> Ich bin ein Junge
 
-Yo soy una chica -> Ich bin ein Mädchen
+Yo soy una chica -> Ich bin ein MädchenMansana -> Apfel
+
+-------
+
+Manzana -> Apfel
+
+Tú -> du
+Tú eres una niña -> Du bist ein Mädchen
+Tú eres un niño -> Du bist ein Junge
+Tú eres un hombre -> Du bist ein Mann
+
+eres -> bist
+
+el -> der
+
+Yo -> ich
+
+una -> eine
+
+él -> er
+Él come una manzana -> Er isst einen Apfel
+Él es un niño -> Er ist ein Kind
+Él es un hombre -> Er ist ein Mann
+
+Usted es un niño -> Sie sind ein Kind
+Usted es un hombre -> Sie sind ein Mann
+
+Ella es una mujer -> Sie ist eine Frau 
+Ella come la manzana -> Sie isst den Apfel 
+Ellas se comen una manzana -> Sie essen einen Apfel
