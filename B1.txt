@@ -42,10 +42,10 @@ Ela es una mujer -> Sie ist eine Frau
 Usted es una mujer -> Sie sind eine Frau
 
 Tu eres un nino -> Du bist ein Junge
-El es un nino -> Er ist ein Junge
+Él es un nino -> Er ist ein Junge
 El nino come una manzana -> Der Junge isst einen Apfel
 
-El es un hombre -> Er ist ein Mann
+Él es un hombre -> Er ist ein Mann
 Tu eres un hombre -> Du bist ein Mann
 El hombre come una manzana -> Der Mann isst einen Apfel
 
@@ -59,16 +59,16 @@ La nina come -> Das Mädchen isst
 
 Yo bebo agua -> Ich trinke Wasser
 Yo bebo leche -> Ich trinke Milch
-El bebe agua -> Er trinkt Wasser
-Tu bebes -> Du trinkst
+Él bebe agua -> Er trinkt Wasser
+Tú bebes -> Du trinkst
 
 Yo como un pan -> Ich esse ein Brot
 Yo como -> Ich esse
-Tu comes el pan -> Du isst das Brot
+Tú comes el pan -> Du isst das Brot
 Ella come pan -> Sie isst Brot
 Yo como pan -> Ich esse Brot
 
-Tu comes -> Du isst
+Tú comes -> Du isst
 
 El nino bebe leche -> Der Junge trinkt Milch
 
@@ -96,13 +96,13 @@ La mujer, el hombre -> Die Frau, der Mann
 
 -------
 
-Tu eres un nino -> Du bist ein Junge
+Tú eres un nino -> Du bist ein Junge
 
 Ella es una nina -> Sie ist ein Kind
 Un nino come la manzana -> Ein Kind isst den Apfel
 
 Usted es un hombre -> Sie sind ein Mann
-Tu eres un hombre -> Du bist ein Mann
+Tú eres un hombre -> Du bist ein Mann
 El es un hombre -> Er ist ein Mann
 
 Usted come una manzana -> Sie essen einen Apfel
@@ -119,22 +119,22 @@ Ella es una mujer -> Sie ist eine Frau
 
 -------
 
-Tu comes el pan -> Du isst das Brot
-El comme pan -> Er isst Brot
+Tú comes el pan -> Du isst das Brot
+Él comme pan -> Er isst Brot
 
 Yo como un pan -> Ich esse ein Brot
 Yo como -> Ich esse
-Tu comes -> Du isst
-Tu comes pan -> Du isst Brot
+Tú comes -> Du isst
+Tú comes pan -> Du isst Brot
 Yo como pan -> Ich esse Brot
 
 Yo bebo leche -> Ich trinke Milch
 Yo bebo agua -> Ich trinke Wasser
-Tu bebes la leche -> Du trinkst die Milch
+Tú bebes la leche -> Du trinkst die Milch
 
-El bebe el agua -> Er trinkt das Wasser
-Tu bebes agua -> Du trinkst Wasser
-Tu bebes el agua -> Du trinkst das Wasser
+Él bebe el agua -> Er trinkt das Wasser
+Tú bebes agua -> Du trinkst Wasser
+Tú bebes el agua -> Du trinkst das Wasser
 
 Ella bebe la leche -> Sie trinkt die Milch
 

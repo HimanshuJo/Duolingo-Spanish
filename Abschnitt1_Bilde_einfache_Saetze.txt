@@ -209,3 +209,32 @@ Usted es un hombre -> Sie sind ein Mann
 Ella es una mujer -> Sie ist eine Frau 
 Ella come la manzana -> Sie isst den Apfel 
 Ellas se comen una manzana -> Sie essen einen Apfel
+
+-------
+
+niño -> Junge
+
+Agua -> Wasser
+
+Pan -> Brot
+
+Es -> ist
+
+Una mujer bebe agua -> Eine Frau trinkt Wasser
+
+Yo como -> Ich esse
+Yo bebo leche -> Ich trinke Milch
+Yo bebo el agua -> Ich trinke das Wasser
+Yo como el pan -> Ich esse das Brot
+Yo bebo leche -> Ich trinke Milch
+
+Tú bebes la leche -> Du trinkst die Milch
+Tú comes una manzana -> Du isst einen Apfel
+Tú bebes leche -> Du trinkst Milch
+Tú comes pan -> Du isst Brot
+Tú bebes el agua -> Du trinkst das Wasser
+
+La mujer come pan -> Die Frau isst Brot
+La niña bebe leche -> Das Mädchen trinkt Milch
+
+El hombre bebe leche -> Der Mann trinkt Milch
