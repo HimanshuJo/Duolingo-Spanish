@@ -259,3 +259,54 @@ Die Frau trinkt das Wasser -> La mujer bebe el agua
 Un niño come la manzana -> Ein Kind isst den Apfel
 
 Ella come la manzana -> Sie isst den Apfel
+
+-------
+
+Vosotras coméis una manzana -> Ihr esst einen Apfel
+
+Yo soy una persona -> Ich bin eine Person
+
+Él lee -> Er liest
+
+Yo -> ich
+
+agua -> Wasser
+
+como -> Wie
+
+tus -> deine
+
+gato -> Katze
+
+Ellos son niños -> Sie sind Kinder
+
+niña -> Mädchen
+La niña come pan -> Das Mädchen isst Brot
+La niña bebe el agua -> Das Mädchen trinkt das Wasser 
+
+niño -> Junge
+
+manzana -> Apfel
+
+nosotros -> Wir
+Nosotros leemos -> Wir lesen
+
+Yo leo un libro -> Ich lese ein Buch
+
+persona -> Person
+
+vosotras -> Ihr
+
+vamos -> Gehen
+
+comes -> esst
+
+neustro -> unser
+
+Yo bebo vino -> Ich trinke Wein
+
+Las chicas beben la leche -> Die Mädchen trinken die Milch
+
+Usted es un hombre -> Sie sind ein Mann
+
+los hombres, los señores -> die Männer
