@@ -5,10 +5,10 @@ La mujer come una manzana -> Die Frau isst einen Apfel
 La mujer lee el diario -> Die Frau liest die Zeitung
 
 Ella come pan -> Sie isst Brot
-El nino bebe agua -> Das kind trinkt Wasser
-Tu bebes leche -> Du trinkst Milch
+El niño bebe agua -> Das kind trinkt Wasser
+Tú bebes leche -> Du trinkst Milch
 
 Nosotras bebemos leche -> Wir trinken Milch
 Vosotros comeis pan -> Ihr esst Brot
-El escribe un libro -> Er schreibt ein Buch
+Él escribe un libro -> Er schreibt ein Buch
 Yo escribe una carta -> Ich schreibe einen Brief

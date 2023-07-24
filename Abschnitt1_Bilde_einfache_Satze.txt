@@ -145,7 +145,7 @@ los -> die
 Las persona lee el diario -> Die Person liest die Zeitung
 
 Yo leo un libro -> Ich lese ein Buch
-Yo elo el diario -> Ich lese die Zeitung
+Yo leo el diario -> Ich lese die Zeitung
 
 Tú escribes una carta -> Du schreibst einen Brief
 
@@ -179,7 +179,9 @@ niño -> Junge
 Un niño -> Ein Junge
 Yo soy un niño/Yo soy un chico -> Ich bin ein Junge
 
-Yo soy una chica -> Ich bin ein MädchenMansana -> Apfel
+Yo soy una chica -> Ich bin ein Mädchen
+
+Mansana -> Apfel
 
 -------
 
@@ -264,11 +266,10 @@ Ella come la manzana -> Sie isst den Apfel
 
 Vosotras coméis una manzana -> Ihr esst einen Apfel
 
+Yo -> ich
 Yo soy una persona -> Ich bin eine Person
 
 Él lee -> Er liest
-
-Yo -> ich
 
 agua -> Wasser
 
@@ -278,13 +279,12 @@ tus -> deine
 
 gato -> Katze
 
+niño -> Junge
 Ellos son niños -> Sie sind Kinder
 
 niña -> Mädchen
 La niña come pan -> Das Mädchen isst Brot
 La niña bebe el agua -> Das Mädchen trinkt das Wasser 
-
-niño -> Junge
 
 manzana -> Apfel
 
@@ -310,3 +310,58 @@ Las chicas beben la leche -> Die Mädchen trinken die Milch
 Usted es un hombre -> Sie sind ein Mann
 
 los hombres, los señores -> die Männer
+
+-------
+
+Herausforderung 1:
+
+yo soy una niña -> Ich bin ein Mädchen
+
+Vosotras coméis -> Ihr esst
+Vosotros coméis una manzana -> Ihr esst einen Apfel
+
+Yo leo un libro -> Ich lese ein Buch
+Yo leo el diario -> Ich lese die Zeitung
+
+estas escribiendo una carta/Tú escribes una carta -> Du schreibst einen Brief
+
+Tú bebes el agua -> Du trinkst das Wasser
+Tú bebes la leche -> Du trinkst die Milch
+Tú escribes -> Du schreibst
+Tú lees el libro -> Du liest das Buch
+Tú lees un periódico -> Du liest eine Zeitung
+
+una niña/una chica -> Ein Mädchen
+
+Ella bebe agua -> Sie trinkt Wasser
+
+Ellos son niños -> Sie sind Kinder
+Ellos beben -> Sie trinken
+
+Tú lees un periódico -> Du liest eine Zeitung
+
+-------
+
+Herausforderung 2:
+
+La niña -> Das Mädchen
+
+Yo leo -> Ich lese
+
+Tú bebes el agua -> Du trinkst das Wasser
+Tú bebes la leche -> Du trinkst die Milch
+Tú escribes una carta -> Du schreibst einen Brief
+Tú lees el libro -> Du liest das Buch
+Tú lees un libro -> Du liest ein Buch
+
+La mujer bebe -> Die Frau trinkt
+
+Vosotras coméis una manzana -> Ihr esst einen Apfel
+
+Yo leo el libro -> Ich lese das Buch
+
+Ella bebe -> Sie trinkt
+
+Ellos son niños -> Sie sind Kinder
+
+Tú lees un periódico -> Du liest eine Zeitung
