@@ -112,7 +112,7 @@ Vosotras leeis una carta -> Ihr lest einen Brief
 Ellas escriben -> Sie schreiben
 
 nina -> Mädchen
-Las nina escriben -> Die Mädchen schreiben
+Las niñas escriben -> Die Mädchen schreiben
 
 Nosotros leemos -> Wir lesen
 
@@ -181,7 +181,7 @@ Yo soy un niño/Yo soy un chico -> Ich bin ein Junge
 
 Yo soy una chica -> Ich bin ein Mädchen
 
-Mansana -> Apfel
+Manzana -> Apfel
 
 -------
 
@@ -365,3 +365,149 @@ Ella bebe -> Sie trinkt
 Ellos son niños -> Sie sind Kinder
 
 Tú lees un periódico -> Du liest eine Zeitung
+
+-------
+
+Extras:
+
+el agua -> Wasser
+Él bebe el agua -> Er trinkt das Wasser
+Yo bebo agua -> Ich trinke Wasser
+
+el pan -> bread
+Tú comes pan -> du isst Brot
+Yo como pan -> ich esse Brot
+Tú te comes el pan -> Du isst das Brot
+
+la leche -> milch
+
+Tú comes -> du isst
+
+Él bebe -> er trinkt
+Yo como -> ich esse
+Yo bebo -> ich trinke
+Tú bebes -> du trinkst
+
+una -> eine
+
+Un hombre -> Ein Mann
+Soy un hombre -> ich bin ein Mann
+El hombre -> Der Mann
+El hombre bebe leche -> Der Mann trinkt Milch
+El hombre, la mujer -> Der Mann, die Frau
+
+El nino la nina -> Der Junge, das Mädchen
+Yo soy una nina -> Ich bin ein Mädchen
+La nina -> Das Mädchen
+
+Una mujer -> Eine Frau
+Yo soy una mujer -> Ich bin eine Frau
+El hombre, la mujer -> Der Mann, die Frau
+
+Yo soy un nino -> Ich bin ein Junge
+El nino la nina -> Der Junge, das Mädchen
+
+-------
+
+La mujer come una manzana -> Die Frau isst einen Apfel
+Ela es una mujer -> Sie ist eine Frau
+Usted es una mujer -> Sie sind eine Frau
+
+Tu eres un nino -> Du bist ein Junge
+Él es un nino -> Er ist ein Junge
+El nino come una manzana -> Der Junge isst einen Apfel
+
+Él es un hombre -> Er ist ein Mann
+Tu eres un hombre -> Du bist ein Mann
+El hombre come una manzana -> Der Mann isst einen Apfel
+
+Usted come una manzana -> Sie essen einen Apfel
+
+Ella come -> Sie isst
+
+La nina come -> Das Mädchen isst
+
+-------
+
+Yo bebo agua -> Ich trinke Wasser
+Yo bebo leche -> Ich trinke Milch
+Él bebe agua -> Er trinkt Wasser
+Tú bebes -> Du trinkst
+
+Yo como un pan -> Ich esse ein Brot
+Yo como -> Ich esse
+Tú comes el pan -> Du isst das Brot
+Ella come pan -> Sie isst Brot
+Yo como pan -> Ich esse Brot
+
+Tú comes -> Du isst
+
+El nino bebe leche -> Der Junge trinkt Milch
+
+El hombre come pan -> Der Mann isst Brot
+
+-------
+
+Un nino -> Ein Junge
+Yo soy un nino -> Ich bin ein Junge
+El nino, la nina -> Der Junge, das Mädchen
+
+la nina, la chica, la muchacha -> Das Mädchen
+Yo soy una nina -> Ich bin ein Mädchen
+
+Soy un hombre -> Ich bin ein Mann
+Yo soy un hombre -> Ich bin ein Mann
+Un hombre -> Ein Mann
+El hombre, la mujer -> Der Mann die Frau
+
+Yo soy una mujer -> Ich bin eine Frau
+La mujer -> Die Frau
+Una mujer -> Eine Frau
+El hombre, la mujer -> Der Mann die Frau
+La mujer, el hombre -> Die Frau, der Mann
+
+-------
+
+Tú eres un nino -> Du bist ein Junge
+
+Ella es una nina -> Sie ist ein Kind
+Un nino come la manzana -> Ein Kind isst den Apfel
+
+Usted es un hombre -> Sie sind ein Mann
+Tú eres un hombre -> Du bist ein Mann
+Él es un hombre -> Er ist ein Mann
+
+Usted come una manzana -> Sie essen einen Apfel
+
+Una manzana -> Ein Apfel
+Él come una manzana -> Er isst einen Apfel
+Ella come la manzana -> Sie isst den Apfel
+
+Él come -> Er isst
+Ella come -> Sie isst
+
+Usted es una mujer -> Sie sind eine Frau
+Ella es una mujer -> Sie ist eine Frau
+
+-------
+
+Tú comes el pan -> Du isst das Brot
+Él comme pan -> Er isst Brot
+
+Yo como un pan -> Ich esse ein Brot
+Yo como -> Ich esse
+Tú comes -> Du isst
+Tú comes pan -> Du isst Brot
+Yo como pan -> Ich esse Brot
+
+Yo bebo leche -> Ich trinke Milch
+Yo bebo agua -> Ich trinke Wasser
+Tú bebes la leche -> Du trinkst die Milch
+
+Él bebe el agua -> Er trinkt das Wasser
+Tú bebes agua -> Du trinkst Wasser
+Tú bebes el agua -> Du trinkst das Wasser
+
+Ella bebe la leche -> Sie trinkt die Milch
+
+Una mujer bebe agua -> Eine Frau trinkt Wasser

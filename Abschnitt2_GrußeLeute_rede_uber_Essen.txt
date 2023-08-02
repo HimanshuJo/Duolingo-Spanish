@@ -16,3 +16,29 @@ Hola, buenas noches -> Hallo guten Abend
 noches -> Nacht
 
 ¡Hola! -> Hallo
+
+-------
+
+Sí -> Ja
+
+¡No! -> Nein
+
+Perdón -> Verzeihung
+
+No perdón -> Nein, Verzeihung
+
+Sí ¡perdón! -> Ja, Verzeihung!
+
+De nada -> Gern geschehen!
+
+¡Sí, de nada! -> Ja, gern geschehen!
+
+Por favor -> Bitte
+
+Lo siento -> Tut mir leid
+
+noches -> Nacht
+
+hola -> Hallo
+
+días -> Tage
