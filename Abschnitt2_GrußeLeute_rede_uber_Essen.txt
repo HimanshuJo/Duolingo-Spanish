@@ -1,5 +1,7 @@
+Lektion 1
+
 Adiós  -> Tschüss
-Adiós buenas noches -> Tschüss, gute Nacht
+Adiós buenas noches -> Tschüss, Gute Nacht
 
 ¡Gracias! -> Danke
 Gracias, adiós -> Danke, tschüss
@@ -11,13 +13,15 @@ días -> Tage
 Mucho gusto -> Sehr erfreut
 
 Hola, mucho gusto -> Hallo, sehr erfreut
-Hola, buenas noches -> Hallo guten Abend
+Hola, buenas noches -> Hallo, Guten Abend/ Gute Nacht
 
 noches -> Nacht
 
 ¡Hola! -> Hallo
 
 -------
+
+Lektion 2
 
 Sí -> Ja
 
@@ -42,3 +46,37 @@ noches -> Nacht
 hola -> Hallo
 
 días -> Tage
+
+-------
+
+Lektion 3
+
+disculpe -> Verzeihung
+Disculpe, lo siento -> Verzeihung, tut mir leid (Excuse me, I'm sorry)
+Sí, disculpe -> Ja Verzeihung
+
+Gracias disculpe -> Danke, Verzeihung
+
+¿Hablas español? -> Sprichst du Spanish?
+¿Tú hablas inglés? -> Sprichst du Englisch?
+Tú hablas -> Du sprichst
+Yo hablo inglés -> Ich spreche Englisch
+
+inglés -> Englisch
+
+Yo no hablo -> Ich spreche nicht
+Yo no hablo español -> Ich spreche Kein Spanisch
+
+Sí yo hablo español -> Ja, ich spreche Spanisch
+Sí yo hablo inglés -> Ja, ich spreche Englisch
+
+hablas -> sprichst
+¿Tú hablas inglés? -> Sprichst du Englisch?
+
+como -> Wie
+
+niña -> Mädchen
+
+libros -> Bücher
+
+cangrejo -> Krebs
