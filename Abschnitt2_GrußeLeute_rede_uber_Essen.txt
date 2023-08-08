@@ -80,3 +80,28 @@ niña -> Mädchen
 libros -> Bücher
 
 cangrejo -> Krebs
+
+-------
+
+Lektion 4
+
+¡Por favor, no! -> Bitte nicht
+
+Adiós buenas noches -> Tschüss, gute Nacht
+
+Por favor -> Bitte
+
+Hola, buenas noches -> Hallo, guten Abend
+
+Sí, hola -> Ja, hallo
+Sí yo hablo español -> Ja, ich spreche Spanisch
+
+Gracias sí -> Danke, ja
+Gracias, buenas noches -> Danke, Gute Nacht
+
+No gracias bebo agua -> Nein danke, ich trinke Wasser
+
+¿Tú hablas inglés? -> Sprichst du Englisch?
+
+Yo no hablo -> Ich spreche nicht
+Yo no hablo español -> Ich spreche kein Spanisch
