@@ -105,3 +105,36 @@ No gracias bebo agua -> Nein danke, ich trinke Wasser
 
 Yo no hablo -> Ich spreche nicht
 Yo no hablo español -> Ich spreche kein Spanisch
+
+-------
+
+Sag, was du machst
+
+Lektion 1 von 5
+
+bebemos -> wir trinken
+
+Niño -> Kind/Junge
+
+Una -> Eine
+
+Ustedes -> Sie
+Ustedes son mujeres -> Sie sind Frauen
+Ellas son mujeres -> Sie sind Frauen
+
+Nosotros bebemos -> Wir trinken
+Nosotros bebemos agua -> Wir trinken Wasser
+
+Somos hombres -> Wir sind Männer
+Nosotros somos hombres -> Wir sind Männer
+Nosotras somos mujeres -> Wir sind Frauen
+
+Ustedes son hombres -> Sie sind Männer
+
+Ellas son mujeres -> Sie sind Frauen
+
+Nosotras bebemos leche -> Wir trinken Milch
+Nosotras bebemos la leche -> Wir trinken die Milch
+
+Son ustedes -> Sind Sie es?
+¿Quiénes son ellos? -> Wer Sind sie?
