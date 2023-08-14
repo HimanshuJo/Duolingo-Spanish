@@ -1,219 +1,3 @@
-los hombres -> die Männer
-las mujeres -> die Frauen
-
-Somos mujeres -> Wir sind Frauen
-Somos hombres -> Wir sind Männer
-
-Nosotros bebemos -> Wir trinken
-Nosotros -> Wir
-Nosotros bebemos leche -> Wir trinken Milch
-Nosotros bebemos -> Wir trinken
-Nosotras somos mujeres -> Wir sind Frauen
-Nosotras bebemos la leche -> Wir trinken die Milch
-
-Ustedes -> Sie
-Ustedes son hombres -> Sie sind Männer
-
-Tú -> du
-nosotros -> wir
-una -> eine
-es -> ist
-un -> ein
-
-Somos -> We are
-son -> sind
-pasta -> Nudeln
-comen -> essen
-huevo -> Ei
-a -> zu
-
-Las camisas son grandes -> Die Hemden sind groß
-
-Nosotras bebemos la leche -> Wir trinken die Milch
-Las camisas son grandes -> Die Hemden sind groß
-
--------
-
-las niñas -> die Mädchen
-
-los -> die
-los niños -> die Jungen/die Kinder
-
-Los Hombres -> die Männer
-
-Las mujeres -> die Frauen
-Las mujeres beben agua -> Die Frauen trinken Wasser
-
-Ellas son niñas -> Sie sind Mädchen
-Ellas son mujeres -> Sie sind Frauen
-
-Ellos beben -> Sie trinken
-Ellos beben agua -> Sie trinken Wasser
-
-Las niñas beben la leche -> Die Mädchen trinken die Milch
-
-Vosotros -> Ihr
-Vosotros comeis -> Ihr esst
-Vosotros comeis pan -> Ihr esst Brot
-
--------
-
-el vino -> der Wein
-Yo bebo vino -> ich trinke Wein
-
-el libro -> das Buch
-
-la carta -> der Brief
-
-Yo escribo -> Ich schreibe
-Yo escribo una carta -> Ich schreibe einen Brief
-
-Tú escribes -> Du schreibst
-Tú escribes una carta -> Du schreibst einen Brief
-
-Vosotras comeis -> Ihr esst
-Vosotras comeis pan -> Ihr esst Brot
-
-Él escribe un libro -> Er schreibt ein Buch
-
-escribe -> schreibt
-
-Nosotros escribimos -> Wir schreiben
-Nosotras escribimos un libro -> Wir schreiben ein Buch
-
-un -> ein
-
-vosotras -> ihr
-
-comes -> isst
-
-son -> sind
-
-ellas -> sie
-
--------
-
-diario -> Zeitung
-el diario -> die Zeitung
-Él lee -> Er liest
-
-Yo leo -> Ich lese
-Yo leo un libro -> Ich lese ein Buch
-
-Tú lees -> Du liest
-
-Ellos leen -> Sie lesen
-
-leeis -> lest 
-Leeis el libro -> Ihr lest das Buch
-
-Vosotras leeis una carta -> Ihr lest einen Brief
-
-Ellas escriben -> Sie schreiben
-
-nina -> Mädchen
-Las niñas escriben -> Die Mädchen schreiben
-
-Nosotros leemos -> Wir lesen
-
-mio -> mir
-
-bebemos -> trinken
-
-leen -> lesen
-
-ingles -> English
-
-si -> ja
-
-sal -> Salz
-
--------
-
-Yo bebo vino -> Ich trinke Wein
-
-Las niñas escriben -> Die Mädchen schreiben
-Las mujeres beben el agua -> Die Frauen trinken das Wasser
-
-Nosotras escribimos un libro -> Wir schreiben ein Buch
-Nosotras bebemos leche -> Wir trinken Milch
-
-los -> die
-
-¿Son ustedes? -> Sind Sie es
-
-Las persona lee el diario -> Die Person liest die Zeitung
-
-Yo leo un libro -> Ich lese ein Buch
-Yo leo el diario -> Ich lese die Zeitung
-
-Tú escribes una carta -> Du schreibst einen Brief
-
-Él lee -> Er liest
-
--------
-
-una -> eine
-
-nina -> Mädchen
-La nina -> Das Mädchen
-Yo soy una nina -> Ich bin ein Mädchen
-
-soy -> bin
-
-Yo -> ich
-Yo soy una mujer -> Ich bin eine Frau
-
-hombre-> Mann
-Un hombre -> Ein Mann
-El hombre -> Der Mann
-El hombre la mujer -> Der Mann, die Frau
-Yo soy un hombre -> Ich bin ein Mann
-
-mujer -> Frau
-La mujer -> Die Frau
-La mujer el hombre -> Die Frau, der Mann
-Yo soy una mujer -> Ich bin eine Frau
-
-niño -> Junge
-Un niño -> Ein Junge
-Yo soy un niño/Yo soy un chico -> Ich bin ein Junge
-
-Yo soy una chica -> Ich bin ein Mädchen
-
-Manzana -> Apfel
-
--------
-
-Manzana -> Apfel
-
-Tú -> du
-Tú eres una niña -> Du bist ein Mädchen
-Tú eres un niño -> Du bist ein Junge
-Tú eres un hombre -> Du bist ein Mann
-
-eres -> bist
-
-el -> der
-
-Yo -> ich
-
-una -> eine
-
-él -> er
-Él come una manzana -> Er isst einen Apfel
-Él es un niño -> Er ist ein Kind
-Él es un hombre -> Er ist ein Mann
-
-Usted es un niño -> Sie sind ein Kind
-Usted es un hombre -> Sie sind ein Mann
-
-Ella es una mujer -> Sie ist eine Frau 
-Ella come la manzana -> Sie isst den Apfel 
-Ellas se comen una manzana -> Sie essen einen Apfel
-
--------
-
 niño -> Junge
 
 Agua -> Wasser
@@ -468,46 +252,120 @@ La mujer, el hombre -> Die Frau, der Mann
 
 -------
 
-Tú eres un nino -> Du bist ein Junge
+Tú eres un nino
+Du bist ein Junge
+You are a boy
 
-Ella es una nina -> Sie ist ein Kind
-Un nino come la manzana -> Ein Kind isst den Apfel
+Ella es una nina
+Sie ist ein Kind
+She is a girl
 
-Usted es un hombre -> Sie sind ein Mann
-Tú eres un hombre -> Du bist ein Mann
-Él es un hombre -> Er ist ein Mann
+Un nino come la manzana
+Ein Kind isst den Apfel
+A kid is eating an apple
 
-Usted come una manzana -> Sie essen einen Apfel
+Usted es un hombre
+Sie sind ein Mann
+You are a man
 
-Una manzana -> Ein Apfel
-Él come una manzana -> Er isst einen Apfel
-Ella come la manzana -> Sie isst den Apfel
+Tú eres un hombre
+Du bist ein Mann
+You are a man
 
-Él come -> Er isst
-Ella come -> Sie isst
+Él es un hombre
+Er ist ein Mann
+He is a man
 
-Usted es una mujer -> Sie sind eine Frau
-Ella es una mujer -> Sie ist eine Frau
+Usted come una manzana
+Sie essen einen Apfel
+You are eating an apple
+
+Una manzana
+Ein Apfel
+An apple
+
+Él come una manzana
+Er isst einen Apfel
+He is eating an apple
+
+Ella come la manzana
+Sie isst den Apfel
+She is eating an apple
+
+Él come
+Er isst
+He is eating
+
+Ella come
+Sie isst
+She is eating
+
+Usted es una mujer
+Sie sind eine Frau
+You are a woman
+
+Ella es una mujer
+Sie ist eine Frau
+She is a woman
 
 -------
 
-Tú comes el pan -> Du isst das Brot
-Él comme pan -> Er isst Brot
+Tú comes el pan
+Du isst das Brot
+You are eating the bread
 
-Yo como un pan -> Ich esse ein Brot
-Yo como -> Ich esse
-Tú comes -> Du isst
-Tú comes pan -> Du isst Brot
-Yo como pan -> Ich esse Brot
+Él comme pan
+Er isst Brot
+He is eating bread
 
-Yo bebo leche -> Ich trinke Milch
-Yo bebo agua -> Ich trinke Wasser
-Tú bebes la leche -> Du trinkst die Milch
+Yo como un pan
+Ich esse ein Brot
+I am eating a bread
 
-Él bebe el agua -> Er trinkt das Wasser
-Tú bebes agua -> Du trinkst Wasser
-Tú bebes el agua -> Du trinkst das Wasser
+Yo como 
+Ich esse
+I am eating
 
-Ella bebe la leche -> Sie trinkt die Milch
+Tú comes
+Du isst
+You are eating
 
-Una mujer bebe agua -> Eine Frau trinkt Wasser
+Tú comes pan
+Du isst Brot
+You are eating bread
+
+Yo como pan
+Ich esse Brot
+I am eating bread
+
+Yo bebo leche
+Ich trinke Milch
+I am drinking milk
+
+Yo bebo agua
+Ich trinke Wasser
+I am drinking water
+
+Tú bebes la leche
+Du trinkst die Milch
+You are drinking the milk
+
+Él bebe el agua
+Er trinkt das Wasser
+He is drinking the water
+
+Tú bebes agua 
+Du trinkst Wasser
+You are drinking water
+
+Tú bebes el agua
+Du trinkst das Wasser
+You are drinking the water
+
+Ella bebe la leche
+Sie trinkt die Milch
+She is drinking the milk
+
+Una mujer bebe agua
+Eine Frau trinkt Wasser
+A woman is drinking water

@@ -1,0 +1,75 @@
+el vino
+der Wein
+The wine
+
+Yo bebo vino
+ich trinke Wein
+I am drinking wine
+
+el libro
+das Buch
+The book
+
+la carta
+der Brief
+The letter
+
+Yo escribo
+Ich schreibe
+I am writing
+
+Yo escribo una carta
+Ich schreibe einen Brief
+I am writing a letter
+
+Tú escribes
+Du schreibst
+You are writing
+
+Tú escribes una carta
+Du schreibst einen Brief
+You are writing a letter
+
+Vosotras comeis
+Ihr esst
+You are eating
+
+Vosotras comeis pan
+Ihr esst Brot
+You are eating bread
+
+Él escribe un libro
+Er schreibt ein Buch
+He is writing a book
+
+escribe
+schreibt
+Writes
+
+Nosotros escribimos
+Wir schreiben
+We are writing
+
+Nosotras escribimos un libro
+Wir schreiben ein Buch
+We are writing a book
+
+un
+ein
+One
+
+vosotras
+ihr
+You
+
+comes
+isst
+Eating
+
+son
+sind
+Are
+
+ellas
+sie
+They

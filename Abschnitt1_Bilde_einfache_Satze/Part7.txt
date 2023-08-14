@@ -1,0 +1,71 @@
+Manzana
+Apfel
+Apple
+
+Tú
+du
+You
+
+Tú eres una niña
+Du bist ein Mädchen
+You are a girl
+
+Tú eres un niño
+Du bist ein Junge
+You are a boy
+
+Tú eres un hombre
+Du bist ein Mann
+You are a man
+
+eres
+bist
+You are
+
+el
+der
+He
+
+Yo
+ich
+I
+
+una
+eine
+One
+
+él
+er
+He
+
+Él come una manzana
+Er isst einen Apfel
+He is eating an apple
+
+Él es un niño
+Er ist ein Kind
+He is a child
+
+Él es un hombre
+Er ist ein Mann
+He is a man
+
+Usted es un niño
+Sie sind ein Kind
+You are a child
+
+Usted es un hombre
+Sie sind ein Mann
+You are a man
+
+Ella es una mujer
+Sie ist eine Frau 
+She is a woman
+
+Ella come la manzana
+Sie isst den Apfel 
+She is eating an apple
+
+Ellas se comen una manzana
+Sie essen einen Apfel
+They are eating an apple
