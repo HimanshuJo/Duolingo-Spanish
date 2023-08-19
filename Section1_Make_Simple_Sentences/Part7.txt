@@ -40,7 +40,7 @@ He
 
 Él come una manzana
 Er isst einen Apfel
-He is eating an apple
+He eats an apple
 
 Él es un niño
 Er ist ein Kind
@@ -64,8 +64,8 @@ She is a woman
 
 Ella come la manzana
 Sie isst den Apfel 
-She is eating an apple
+She eats an apple
 
 Ellas se comen una manzana
 Sie essen einen Apfel
-They are eating an apple
+They eat an apple

@@ -1,0 +1,71 @@
+niño
+Junge
+Child
+
+Agua
+Wasser
+Water
+
+Pan
+Brot
+Bread
+
+Es
+ist
+Is
+
+Una mujer bebe agua
+Eine Frau trinkt Wasser
+A woman drinks water
+
+Yo como
+Ich esse
+I eat
+
+Yo bebo leche
+Ich trinke Milch
+I drink milk
+
+Yo bebo el agua
+Ich trinke das Wasser
+I drink water
+
+Yo como el pan
+Ich esse das Brot
+I eat bread
+
+Yo bebo leche
+Ich trinke Milch
+I drink milk
+
+Tú bebes la leche
+Du trinkst die Milch
+You drink the milk
+
+Tú comes una manzana
+Du isst einen Apfel
+You eat an apple
+
+Tú bebes leche
+Du trinkst Milch
+You drink milk
+
+Tú comes pan
+Du isst Brot
+You eat bread
+
+Tú bebes el agua
+Du trinkst das Wasser
+You drink water
+
+La mujer come pan
+Die Frau isst Brot
+The woman eats bread
+
+La niña bebe leche
+Das Mädchen trinkt Milch
+The girl drinks milk
+
+El hombre bebe leche
+Der Mann trinkt Milch
+The man drinks milk

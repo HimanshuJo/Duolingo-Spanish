@@ -20,7 +20,7 @@ The women
 
 Las mujeres beben agua
 Die Frauen trinken Wasser
-Women are drinking water
+Women drink water
 
 Ellas son niñas
 Sie sind Mädchen
@@ -36,11 +36,11 @@ They drink
 
 Ellos beben agua
 Sie trinken Wasser
-They are drinking water
+They drink water
 
 Las niñas beben la leche
 Die Mädchen trinken die Milch
-The girls are drinking milk
+Girls drink milk
 
 Vosotros
 Ihr
@@ -52,4 +52,4 @@ You eat
 
 Vosotros comeis pan
 Ihr esst Brot
-You are eating bread
+You eat bread

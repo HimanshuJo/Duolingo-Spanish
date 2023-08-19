@@ -16,7 +16,7 @@ We are men
 
 Nosotros bebemos
 Wir trinken
-We are drinking
+We drink
 
 Nosotros
 Wir
@@ -24,11 +24,11 @@ We
 
 Nosotros bebemos leche
 Wir trinken Milch
-We are drinking milk
+We drink milk
 
 Nosotros bebemos
 Wir trinken
-We are drinking
+We drink
 
 Nosotras somos mujeres
 Wir sind Frauen
@@ -36,7 +36,7 @@ We are women
 
 Nosotras bebemos la leche
 Wir trinken die Milch
-We are drinking the milk
+We drink the milk
 
 Ustedes
 Sie
@@ -96,7 +96,7 @@ The shirts are big
 
 Nosotras bebemos la leche
 Wir trinken die Milch
-We are drinking the milk
+We drink the milk
 
 Las camisas son grandes
 Die Hemden sind groß

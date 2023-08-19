@@ -8,39 +8,39 @@ The newspaper
 
 Él lee
 Er liest
-He is reading
+He reads
 
 Yo leo
 Ich lese
-I am reading
+I read
 
 Yo leo un libro
 Ich lese ein Buch
-I am reading a book
+I read a book
 
 Tú lees
 Du liest
-You are reading
+You read
 
 Ellos leen
 Sie lesen
-They are reading
+They read
 
 leeis 
 lest
-Reading
+Read
 
 Leeis el libro
 Ihr lest das Buch
-You are reading the book
+You read the book
 
 Vosotras leeis una carta
 Ihr lest einen Brief
-You are reading a letter
+You read a letter
 
 Ellas escriben
 Sie schreiben
-They are writing
+They write
 
 nina
 Mädchen
@@ -48,11 +48,11 @@ Little girl
 
 Las niñas escriben
 Die Mädchen schreiben
-Girls are writing
+Girls write
 
 Nosotros leemos
 Wir lesen
-We are reading
+We read
 
 mio
 mir
@@ -60,11 +60,11 @@ Mine
 
 bebemos
 trinken
-Drinking
+Drink
 
 leen
 lesen
-Reading
+Read
 
 ingles
 English

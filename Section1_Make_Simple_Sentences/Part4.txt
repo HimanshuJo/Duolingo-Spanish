@@ -4,7 +4,7 @@ The wine
 
 Yo bebo vino
 ich trinke Wein
-I am drinking wine
+I drink wine
 
 el libro
 das Buch
@@ -16,31 +16,31 @@ The letter
 
 Yo escribo
 Ich schreibe
-I am writing
+I write
 
 Yo escribo una carta
 Ich schreibe einen Brief
-I am writing a letter
+I write a letter
 
 Tú escribes
 Du schreibst
-You are writing
+You write
 
 Tú escribes una carta
 Du schreibst einen Brief
-You are writing a letter
+You write a letter
 
 Vosotras comeis
 Ihr esst
-You are eating
+You eat
 
 Vosotras comeis pan
 Ihr esst Brot
-You are eating bread
+You eat bread
 
 Él escribe un libro
 Er schreibt ein Buch
-He is writing a book
+He writes a book
 
 escribe
 schreibt
@@ -48,11 +48,11 @@ Writes
 
 Nosotros escribimos
 Wir schreiben
-We are writing
+We write
 
 Nosotras escribimos un libro
 Wir schreiben ein Buch
-We are writing a book
+We write a book
 
 un
 ein
@@ -64,7 +64,7 @@ You
 
 comes
 isst
-Eating
+Eat
 
 son
 sind

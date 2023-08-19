@@ -1,0 +1,59 @@
+Tú comes el pan
+Du isst das Brot
+You eat the bread
+
+Él comme pan
+Er isst Brot
+He eats bread
+
+Yo como un pan
+Ich esse ein Brot
+I eat a bread
+
+Yo como 
+Ich esse
+I eat
+
+Tú comes
+Du isst
+You eat
+
+Tú comes pan
+Du isst Brot
+You eat bread
+
+Yo como pan
+Ich esse Brot
+I eat bread
+
+Yo bebo leche
+Ich trinke Milch
+I drink milk
+
+Yo bebo agua
+Ich trinke Wasser
+I drink water
+
+Tú bebes la leche
+Du trinkst die Milch
+You drink the milk
+
+Él bebe el agua
+Er trinkt das Wasser
+He drinks the water
+
+Tú bebes agua 
+Du trinkst Wasser
+You drink water
+
+Tú bebes el agua
+Du trinkst das Wasser
+You drink the water
+
+Ella bebe la leche
+Sie trinkt die Milch
+She drink the milk
+
+Una mujer bebe agua
+Eine Frau trinkt Wasser
+A woman drink water

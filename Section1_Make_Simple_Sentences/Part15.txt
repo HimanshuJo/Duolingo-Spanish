@@ -1,0 +1,47 @@
+Yo bebo agua
+Ich trinke Wasser
+I drink water
+
+Yo bebo leche
+Ich trinke Milch
+I drink milk
+
+Él bebe agua
+Er trinkt Wasser
+He drinks water
+
+Tú bebes
+Du trinkst
+You drink
+
+Yo como un pan
+Ich esse ein Brot
+I eat a bread
+
+Yo como
+Ich esse
+I eat
+
+Tú comes el pan
+Du isst das Brot
+You eat the bread
+
+Ella come pan
+Sie isst Brot
+She eats bread
+
+Yo como pan
+Ich esse Brot
+I eat bread
+
+Tú comes
+Du isst
+You eat
+
+El nino bebe leche
+Der Junge trinkt Milch
+The boy drinks milk
+
+El hombre come pan
+Der Mann isst Brot
+The man eats bread

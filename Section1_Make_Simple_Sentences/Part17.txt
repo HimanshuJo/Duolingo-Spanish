@@ -1,0 +1,55 @@
+Tú eres un nino
+Du bist ein Junge
+You are a boy
+
+Ella es una nina
+Sie ist ein Kind
+She is a girl
+
+Un nino come la manzana
+Ein Kind isst den Apfel
+A kid eats an apple
+
+Usted es un hombre
+Sie sind ein Mann
+You are a man
+
+Tú eres un hombre
+Du bist ein Mann
+You are a man
+
+Él es un hombre
+Er ist ein Mann
+He is a man
+
+Usted come una manzana
+Sie essen einen Apfel
+You eat an apple
+
+Una manzana
+Ein Apfel
+An apple
+
+Él come una manzana
+Er isst einen Apfel
+He eats an apple
+
+Ella come la manzana
+Sie isst den Apfel
+She eats an apple
+
+Él come
+Er isst
+He eats
+
+Ella come
+Sie isst
+She eats
+
+Usted es una mujer
+Sie sind eine Frau
+You are a woman
+
+Ella es una mujer
+Sie ist eine Frau
+She is a woman
