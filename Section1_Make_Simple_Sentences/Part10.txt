@@ -12,7 +12,7 @@ I am a person
 
 Él lee
 Er liest
-He is reading
+He reads
 
 agua
 Wasser
@@ -44,7 +44,7 @@ Girl
 
 La niña come pan
 Das Mädchen isst Brot
-The girl is eating bread
+The girl eats bread
 
 La niña bebe el agua
 Das Mädchen trinkt das Wasser 
