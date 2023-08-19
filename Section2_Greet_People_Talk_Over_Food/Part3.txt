@@ -1,0 +1,75 @@
+disculpe
+Verzeihung
+Sorry
+
+Disculpe, lo siento
+Verzeihung, tut mir leid
+Excuse me, I'm sorry
+
+Sí, disculpe
+Ja Verzeihung
+Yes, sorry
+
+Gracias disculpe
+Danke, Verzeihung
+Thank you, sorry
+
+¿Hablas español?
+Sprichst du Spanish?
+Do you speak Spanish?
+
+¿Tú hablas inglés?
+Sprichst du Englisch?
+Do you speak English?
+
+Tú hablas
+Du sprichst
+You speak
+
+Yo hablo inglés
+Ich spreche Englisch
+I speak English
+
+inglés
+Englisch
+English
+
+Yo no hablo
+Ich spreche nicht
+I don't speak
+
+Yo no hablo español
+Ich spreche Kein Spanisch
+I don't speak any Spanish
+
+Sí yo hablo español
+Ja, ich spreche Spanisch
+Yes, I speak Spanish
+
+Sí yo hablo inglés
+Ja, ich spreche Englisch
+Yes, I speak English
+
+hablas
+sprichst
+Speak
+
+¿Tú hablas inglés?
+Sprichst du Englisch?
+Do you speak English?
+
+como
+Wie
+As
+
+niña
+Mädchen
+Girl
+
+libros
+Bücher
+Books
+
+cangrejo
+Krebs
+Crab

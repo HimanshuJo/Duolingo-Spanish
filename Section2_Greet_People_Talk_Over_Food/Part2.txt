@@ -1,0 +1,47 @@
+Sí
+Ja
+Yes
+
+¡No!
+Nein
+No
+
+Perdón
+Verzeihung
+Sorry
+
+No perdón
+Nein, Verzeihung
+No, sorry
+
+Sí ¡perdón!
+Ja, Verzeihung!
+Yes, sorry
+
+De nada
+Gern geschehen!
+You are welcome
+
+¡Sí, de nada!
+Ja, gern geschehen!
+Yes, you are welcome
+
+Por favor
+Bitte
+Please
+
+Lo siento
+Tut mir leid
+I am sorry
+
+noches
+Nacht
+Night
+
+hola
+Hallo
+Hello
+
+días
+Tage
+Day
