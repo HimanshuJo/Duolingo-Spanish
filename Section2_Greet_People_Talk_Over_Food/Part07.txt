@@ -1,0 +1,67 @@
+soy
+bin
+Am
+
+beben
+trinken
+Drinking
+
+Vosotras
+ihr
+You
+
+Eres
+bist
+Are
+
+Yo escribo una carta
+Ich schreibe einen Brief
+I am writing a letter
+
+Tú escribes
+Du schreibst
+You write
+
+Tú escribes una carta
+Du schreibst einen Brief
+You write a letter
+
+Usted escribe una carta
+Sie schreiben einen Brief
+They are writing a letter
+
+Vosotras coméis
+Ihr esst
+You write
+
+Nosotros escribimos una carta
+Wir schreiben einen Brief
+We are writing a letter
+
+Ella escribe un libro
+Sie schreibt ein Buch
+She write a book
+
+Yo escribo un libro
+Ich schreibe ein Buch
+I write a book
+
+Nosotros bebemos vino
+Wir trinken Wein
+We are drinking Wine
+
+Nosotras escribimos un libro
+Wir schreiben ein Buch
+We are writing a book
+
+Ustedes beben vino
+Du trinkst Wein
+You drink wine
+
+Yo escribo una carta
+Ich schreibe einen Brief
+I am writing a letter
+
+Él escribe una carta
+Er schreibt einen Brief
+He writes a letter
