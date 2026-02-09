@@ -1,0 +1,211 @@
+camion -> Lkw
+
+cambiar de -> wechseln
+
+catorce -> vierzehn
+
+carrera -> Rennen
+
+calificacion -> Noten
+
+cansado -> müde
+
+cara -> Gesicht
+
+caballo -> Pferd
+
+carta -> Brief
+
+caja -> Kiste
+
+cabeza -> Kopf
+
+caminar -> spazieren
+
+cantante -> Sänger
+
+cancion -> Lied
+
+cajero automatico -> Geldautomat
+
+campeon -> Meister
+
+caminata -> Wanderung
+
+calle -> Straße
+
+cartera -> Geldbeutel
+
+casi siempre -> fast immer
+
+cancha -> Spielfeld
+
+carrito -> Einkaufswagen
+
+calvo -> glatzköpfig
+
+camaron -> Garnele
+
+cambiar dinero -> wechseln
+
+campamento -> Camp
+
+cada -> jede
+
+castillo -> Schloss
+
+calcetin -> Socke
+
+
+
+celebrar -> feiert
+
+cepillo -> Bürste
+
+cebolla -> Zwiebel
+
+cerdo -> Schwein
+
+cepillarse -> sich die Zähne putzen
+
+cenar -> zu Abend essen
+
+cerveza -> Bier
+
+
+
+chileno -> chilene
+
+charco -> Pfütze
+
+charlar -> plaudern
+
+
+
+ciencia ficcion -> Science-Fiction
+
+cierto -> wahr
+
+cinturon -> Gürtel
+
+ciclista -> Radfahrer
+
+cierro -> schließe
+
+cielo -> Himmel
+
+
+
+companero -> Klassenkamerad
+
+conocer -> kennen
+
+correr -> laufen
+
+collar -> Halskette
+
+corto -> kurz
+
+como -> wie
+
+como estas -> wie geht es dir?
+
+como te llamas -> wie heißt du?
+
+competencia -> Kompetenz
+
+contestar -> antworten
+
+correo electronico -> E-Mail
+
+cosa -> Sache
+
+coche -> Auto
+
+costa -> Küste
+
+completar -> ausfüllen
+
+companero de trabajo -> Arbeitskollege
+
+companero de cuarto -> Mitbewohner
+
+colgar -> aufhängen
+
+confundirse -> sich irren
+
+codigo postal -> Postleitzahl
+
+colombiano -> Kolumbianer
+
+corazon -> Herz
+
+conozco a -> kenne
+
+confundido -> verwirrt
+
+comida rapida -> Fastfood
+
+corbata -> Krawatte
+
+
+
+creo que -> ich glaube
+
+crudo -> roh
+
+cuelgo -> hänge
+
+crema -> Sahne
+
+criticon -> nörglerisch
+
+
+
+cuaderno -> Heft
+
+cuales -> welche
+
+cumplir -> werden
+
+cubiertos -> Besteck
+
+cuchillo -> Messer
+
+cuchara -> Löffel
+
+cuantos anos -> wie alt
+
+cumpleanos -> Geburtstag
+
+cuando -> wenn
+
+cuerpo -> Körper
+
+cuello -> Hals
+
+cuanto cuestan -> kosten
+
+cuantos -> wie viele
+
+cuanta -> wie viel
+
+cuadra -> Block
+
+cuando -> wann
+
+cuanto -> wie viel
+
+cuesta -> kostet
+
+cuenta -> Rechnung
+
+curso -> Kurses
+
+
+
+chisme -> Klatsch
+
+champan -> Champagner
+
+chicos -> Jungs

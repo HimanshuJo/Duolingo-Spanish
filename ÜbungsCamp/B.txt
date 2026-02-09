@@ -1,0 +1,87 @@
+bajo -> klein
+
+barato -> bilig
+
+barrio -> Nachbarschaft
+
+banco -> Bank
+
+barba -> Bart
+
+bano -> Badezimmer
+
+bastante -> ziemlich
+
+batido -> Shake
+
+bateria -> Schlagzeug
+
+banarse -> baden
+
+banera -> Badewanne
+
+barrer -> fegen
+
+bastantes -> genügend
+
+barco -> Schiff
+
+bachata -> Bachata
+
+basta de -> Schluss mit
+
+
+
+bebida -> Getränk
+
+beber -> trinken
+
+
+
+bigote -> Schnurrbart
+
+bienvenido -> wilkommen
+
+
+
+blanco -> weiß
+
+
+
+borrador -> Radiergummi
+
+botella -> Flasche
+
+bosque -> Wald
+
+bota -> Stiefel
+
+boleto -> Fahrkarte
+
+boligrafo -> Kugelschreiber
+
+bolso -> Tasche
+
+bolsas -> Tüten
+
+botella de -> Flasche
+
+
+
+brazo -> Arm
+
+
+
+bueno -> also
+
+buenas tardes -> guten Abend
+
+buenos dias -> guten Morgen
+
+buzon -> Briefkasten
+
+buenas noticias -> gute Nachrichten
+
+buenas noches -> guten Nacht
+
+bufanda -> Schal
